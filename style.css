@@ -385,6 +385,9 @@ nav .fa-solid {
         background-repeat: no-repeat;
 
     }
+    .logo {
+        width: 50px;
+    }
 
     .header-text {
         margin-top: 100%;
