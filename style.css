@@ -381,11 +381,13 @@ nav .fa-solid {
 @media only screen and (max-width: 600px) {
     #header {
         background-image: url(images/profile1.jpg);
-        background-size: 60%;
+        background-size: 50%;
+        background-repeat: no-repeat;
+        background-position: right;
     }
 
     .header-text {
-        margin-top: 70%;
+        margin-top: 90%;
         font-size: 16px;
     }
 
