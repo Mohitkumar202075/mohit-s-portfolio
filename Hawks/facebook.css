@@ -239,11 +239,19 @@ p a {
 
     #fbpara {
         display: grid;
-        text-indent: 50px;
+        margin: 50px;
+        padding-left: 60px;
+        padding-right: 60px;
         color: #0C4A95;
         font-size: 23px;
         width: 100%;
+        text-indent: 0;
     }
+
+    #image {
+        margin: 0;
+    }
+
 
     #facebookform {
         display: grid;
