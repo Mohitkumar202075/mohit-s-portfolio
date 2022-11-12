@@ -239,9 +239,9 @@ p a {
 
     #fbpara {
         display: grid;
-        margin: 50px;
-        padding-left: 60px;
-        padding-right: 60px;
+        margin: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
         color: #0C4A95;
         font-size: 23px;
         width: 100%;
