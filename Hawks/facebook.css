@@ -259,4 +259,9 @@ p a {
     .bottom {
         width: 100%;
     }
+    #fbtext {
+        text-align: left;
+        padding-left: 10px;
+        padding-top: 10px;
+    }
 }
