@@ -168,6 +168,8 @@ td {
     text-indent: 50px;
     color: #0C4A95;
     font-size: 23px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 #forgotten {
