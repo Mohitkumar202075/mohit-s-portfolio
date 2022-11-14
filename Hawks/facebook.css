@@ -84,6 +84,7 @@ select {
     width: 30%;
     padding: 12px 20px;
     margin: 8px 0;
+    margin-right: 13px;
     display: inline-block;
     border: 1px solid #ccc;
     border-radius: 4px;
@@ -91,7 +92,7 @@ select {
 }
 
 input[type=text] {
-    width: 45%;
+    width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
@@ -222,7 +223,10 @@ p a {
 #login:hover {
     background-color: #4CAF50;
 }
-
+#password,
+#phone {
+    width: 100%;
+}
 @media only screen and (max-width: 600px) {
     #facebookphoto {
         display: grid;
